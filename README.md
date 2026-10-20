@@ -12,3 +12,7 @@ Garantir o rastreamento preciso de produtos de tiragem limitada, colecionáveis 
 
 ---
 *Desenvolvido como projeto prático para a disciplina de Projetos de Software 1 (PSOF1).*
+
+## Diagrama do Banco de Dados (DER)
+
+![Diagrama DER](./der.png)
